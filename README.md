@@ -25,6 +25,7 @@
   * Columns
   * xs, sm, md, lg (ect)
 * Page Live from GitHub
+* Make "Header{ Position: Static;}" Under 640px
 
 ### Bonus
 * ReadMe
