@@ -10,7 +10,7 @@
 * contact.html Skeleton
 * style.css
   * Regular Style Parameters
-  * Media Query Parameters
+  * Media Query Parameters (at the <b>bottom</b> of stylesheet)
     * 980px
     * 768px
     * 640px
