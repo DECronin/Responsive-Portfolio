@@ -11,9 +11,9 @@
 * style.css
   * Regular Style Parameters
   * Media Query Parameters
-    @ 980px
-    @ 768px
-    @ 640px
+    * 980px
+    * 768px
+    * 640px
 * Assets Folder
 * CSS Folder
 * Images Folder
