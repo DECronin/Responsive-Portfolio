@@ -21,7 +21,7 @@
 * Images Being Used in Images Folder
   * ViewPort Responsive Images
 * Navigation Bar
-* Viewport/Device Responsive Layout with Grid System
+* ViewPort/Device Responsive Layout with Grid System
   * Rows
   * Columns
   * xs, sm, md, lg (ect)
