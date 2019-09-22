@@ -8,6 +8,7 @@
 * index.html Skeleton
 * portfolio.html Skeleton
 * contact.html Skeleton
+ * (Viewport Tag in all 3)
 * style.css
   * Regular Style Parameters
   * Media Query Parameters (at the <b>bottom</b> of stylesheet)
