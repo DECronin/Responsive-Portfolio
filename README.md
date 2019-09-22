@@ -33,7 +33,7 @@
 * Profile/Bio Picture
 * Sticky Header & Footer
 
-## Revisit Filler/ Not Required Yet
+### Revisit Filler/ Not Required Yet
 * Actual Projects
 * Bio / About Me Paragraph(s)
 * Contact Section Not Live (does not send data anywhere)
