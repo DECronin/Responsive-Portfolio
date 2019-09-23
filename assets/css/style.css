@@ -228,6 +228,14 @@ input[type=submit] {
     float: left;
     margin-left: 100px;
   }
+    .work{
+    float: none;
+    width: 100%;
+    margin: 20px auto;
+  }
+  .work:nth-child(even) {
+    margin-right: auto;
+  }
 }
 @media screen and (max-width: 640px){
   header{
@@ -242,12 +250,5 @@ input[type=submit] {
     width: 90vw;
     margin: 0 auto;
   }
-  .work{
-    float: none;
-    width: 100%;
-    margin: 20px auto;
-  }
-  .work:nth-child(even) {
-    margin-right: auto;
-  }
+
 }
