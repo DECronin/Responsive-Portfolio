@@ -219,6 +219,9 @@ input[type=submit] {
   #main-container{
     width: 650px;
   }
+  .work{
+    margin: 20px auto;
+  }
 }
 @media screen and (max-width: 768px){
   nav{
@@ -238,5 +241,12 @@ input[type=submit] {
   #main-container{
     width: 90vw;
     margin: 0 auto;
+  }
+  .work{
+    float: none;
+    margin: 20px auto;
+  }
+  .work:nth-child(even) {
+    margin-right: auto;
   }
 }
