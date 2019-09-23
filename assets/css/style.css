@@ -244,6 +244,7 @@ input[type=submit] {
   }
   .work{
     float: none;
+    width: 100%;
     margin: 20px auto;
   }
   .work:nth-child(even) {
